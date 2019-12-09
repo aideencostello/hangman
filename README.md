@@ -9,4 +9,4 @@
  _|___    
 
 ```
-Two player command line hangman
+Two player command line hangman game.
